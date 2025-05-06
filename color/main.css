@@ -1,0 +1,11 @@
+:root {
+  --background: hsl(0, 0%, 98%);
+  --foreground: hsl(220, 20%, 20%);
+  --muted-foreground: hsl(240 3.8% 50.1%);
+  --nav-background: hsl(0deg 0% 93.06%);
+  --primary-color: #367bc3;
+  --border-radius: 16px;
+  --button-color: hsl(0deg 0% 67.86%);
+  --button-foreground: hsl(0deg 0% 98.04%);
+  --zort:hsl(218.18deg 91.67% 95.29%);
+}

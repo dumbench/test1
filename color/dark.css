@@ -1,0 +1,5 @@
+.dark-mode{
+  --background: hsl(225deg 5.88% 13.33%);
+  --foreground: hsl(210, 20%, 98%);
+  --nav-background: linear-gradient(0deg,rgba(209,225,255,.08),rgba(209,225,255,.08)),#1f1f1f;
+}
